@@ -6986,26 +6986,27 @@ float: left;
   /*  margin-left: 2%;
     padding-left: 15px;
     padding-right: 15px; */
-      min-height: 1px;
-    font-size: 70px;
-    font-weight: 900;
+    min-height: 1px;
     text-align: center;
-    float: left;
     display: block;
+    color: #ffffff;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 500px) {
   .col-summary-14 {
+    padding-top: 20px;
     width: 100%;
   }
 }
-@media (min-width: 992px) {
+@media (min-width: 768px) {
   .col-summary-14 {
+    float: left;
     width: 33%;
   }
 }
 @media (min-width: 1200px) {
   .col-summary-14 {
+    float: left;
     width: 33%;
   }
 }
