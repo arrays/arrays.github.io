@@ -4485,7 +4485,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #8a7f7b;
+  color: #1FB744;
   background-color: transparent;
 }
 /* .navbar-default .navbar-nav > .active > a,
@@ -6989,7 +6989,6 @@ float: left;
     min-height: 1px;
     text-align: center;
     display: block;
-    color: #ffffff;
 }
 
 @media (min-width: 500px) {

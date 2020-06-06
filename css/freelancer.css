@@ -111,7 +111,7 @@ hr.star-primary:after {
 header {
   position: relative;
   width: 100%;
-  background: url("../img/cover1.png") no-repeat right top fixed;
+  background: url("../img/cover2.png") no-repeat right top fixed;
   background-size: cover;
   text-align: center;
 }
@@ -245,7 +245,7 @@ header .intro-text .skills {
 
 section {
   padding: 100px 0;
-  background-color: #f3f1ed;
+  background-color: #f3f3f3;
 }
 
 section h2 {
@@ -264,7 +264,7 @@ section h3 {
 
 section.success {
   color: #262626;
-  background: #e6e0d5;
+  background: #e6e6e6;
 }
 
 section.success1 {
@@ -639,9 +639,9 @@ footer .footer-below {
 }
 
 .btn-outline:hover, .btn-outline:focus, .btn-outline:active, .btn-outline.active {
-  border: solid 1px #38231a;
+  border: solid 1px #1FB744;
   color: #FFFFFF;
-  background: #38231a;
+  background: #1FB744;
 }
 
 .btn-outline2:hover, .btn-outline2:focus, .btn-outline2:active, .btn-outline2.active {
@@ -775,7 +775,7 @@ footer .footer-below {
   overflow: hidden;
   min-height: 375px;
   position: relative;
-  background: #f3f1ed;
+  background: #f3f3f3;
 }
 
 #testimonial4 .carousel-inner {
